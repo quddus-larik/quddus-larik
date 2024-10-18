@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="123" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -35,12 +31,11 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Nitroxee!">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Nitroxee!&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=EnderTonol&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=EnderTonol&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnderTonol&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
+
+
+
