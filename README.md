@@ -1,6 +1,6 @@
 <div align="center">
 
-#I AM QUDDUS | MERN STACK DEVELOPER <br/><br/>
+# I AM QUDDUS | MERN STACK DEVELOPER <br/><br/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/AbdulQudduslarix) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/quddus-larik-158643273/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/29026249/quddus-larik) 
