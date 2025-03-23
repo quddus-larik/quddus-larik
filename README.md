@@ -18,6 +18,10 @@
 ##  -GitHub🏆Trophies-
 ![](https://github-profile-trophy.vercel.app/?username=EnderTonol&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
+## Contributions📈Chart
+
+![](./contributions-1.png)
+
 ###  -Dev✍️Quote-
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
@@ -28,7 +32,7 @@
 [![](https://visitcount.itsvg.in/api?id=EnderTonol&icon=2&color=0)](https://visitcount.itsvg.in)
 
   ### -You can help me by Donating💰-
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Nitroxee) 
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Nitroxee)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
