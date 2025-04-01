@@ -18,9 +18,6 @@
 ##  -GitHub🏆Trophies-
 ![](https://github-profile-trophy.vercel.app/?username=EnderTonol&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-## Contributions📈Chart
-
-![](./contributions-1.png)
 
 ###  -Dev✍️Quote-
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
