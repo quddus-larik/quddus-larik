@@ -28,6 +28,15 @@
 ### - Top🔝ContributedRepo-
 ![](https://github-contributor-stats.vercel.app/api?username=EnderTonol&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<p align="center">
+    <a href="https://github.com/Legnakra?tab=followers ">
+        <img src="https://img.shields.io/github/followers/EnderTonol?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    </a>
+    <a href="https://github.com/EnderTonol?tab=repositories&sort=stargazers">
+        <img src="https://img.shields.io/github/stars/Legnakra?style=for-the-badge" alt="GitHub badge" />
+    </a>
+</p>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=EnderTonol&icon=2&color=0)](https://visitcount.itsvg.in)
 
