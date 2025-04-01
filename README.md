@@ -1,4 +1,7 @@
 <div align="center">
+<img src="./banner.jpg"/>
+<hr/>
+<img src="./mern-stack.png"/>
   
 # -About💫Me-
 🔭 I’m currently working on NextJS<br>👯 I’m looking to collaborate on MERN Stack Devs<br>🤝 I’m looking for help with ExpressJS<br>🌱 I’m currently learning NextJS<br>💬 Ask me about MERN Stack development<br>⚡ Fun fact Playing Video Games
