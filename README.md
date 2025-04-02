@@ -5,8 +5,8 @@
   
 <h1><tt>-About💫Me-</tt></h1>
 🔭 I’m currently working on NextJS<br>👯 I’m looking to collaborate on MERN Stack Devs<br>🤝 I’m looking for help with ExpressJS<br>🌱 I’m currently learning NextJS<br>💬 Ask me about MERN Stack development<br>⚡ Fun fact Playing Video Games.
-
-
+<br/><br/>
+ <img src="https://komarev.com/ghpvc/?username=EnderTonol&style=flat-square&color=f6b846">
 
 <h2><tt>-🌐Socials-</tt></h2>
 
