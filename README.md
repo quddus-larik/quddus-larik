@@ -1,7 +1,6 @@
 <div align="center">
 <img src="./banner.jpg"/>
 <hr/>
-<img src="./mern-stack.png"/>
   
 <h1><tt>-About💫Me-</tt></h1>
 🔭 I’m currently working on NextJS<br>👯 I’m looking to collaborate on MERN Stack Devs<br>🤝 I’m looking for help with ExpressJS<br>🌱 I’m currently learning NextJS<br>💬 Ask me about MERN Stack development<br>⚡ Fun fact Playing Video Games.
@@ -109,4 +108,6 @@
 <h3><tt>-You can help me by Donating💰-</tt></h3>
 
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Nitroxee)
+  
+<img src="./mern-stack.png"/>
 </div>
