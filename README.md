@@ -67,7 +67,14 @@
 
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
 
+
+
+
+
+
 <h3><tt>-GitHub📊Stats-</tt></h3>
+
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnderTonol&bg_color=161a1d&color=ffffff&line=058c42&point=16db65&area_color=89fc00&area=true&hide_border=true" alt="GitHub Activity Graph" width="95%" loading="lazy"/>
 
 ![](https://github-readme-stats.vercel.app/api?username=EnderTonol&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=EnderTonol&theme=dark&hide_border=true)<br/>
