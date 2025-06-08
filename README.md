@@ -5,7 +5,7 @@
 <h1><tt>-About💫Me-</tt></h1>
 🔭 I’m currently working on NextJS<br>👯 I’m looking to collaborate on MERN Stack Devs<br>🤝 I’m looking for help with ExpressJS<br>🌱 I’m currently learning NextJS<br>💬 Ask me about MERN Stack development<br>⚡ Fun fact Playing Video Games.
 <br/><br/>
- <img src="https://komarev.com/ghpvc/?username=EnderTonol&style=flat-square&color=f6b846">
+ <img src="https://komarev.com/ghpvc/?username=quddus-lar8k&style=flat-square&color=f6b846">
 
 <h2><tt>-🌐Socials-</tt></h2>
 
@@ -76,15 +76,15 @@
 
 <h3><tt>-GitHub📊Stats-</tt></h3>
 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnderTonol&bg_color=161a1d&color=ffffff&line=058c42&point=16db65&area_color=89fc00&area=true&hide_border=true" alt="GitHub Activity Graph" width="95%" loading="lazy"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=quddus-larik&bg_color=161a1d&color=ffffff&line=058c42&point=16db65&area_color=89fc00&area=true&hide_border=true" alt="GitHub Activity Graph" width="95%" loading="lazy"/>
 
-![](https://github-readme-stats.vercel.app/api?username=EnderTonol&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=quddus-larik&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=EnderTonol&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnderTonol&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=quddus-larik&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <h2><tt>-GitHub🏆Trophies-</tt></h2>
  
-![](https://github-profile-trophy.vercel.app/?username=EnderTonol&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=quddus-larik&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 
 <h3><tt>-Dev✍️Quote-</tt></h3>
@@ -93,20 +93,20 @@
 
 <h3><tt>-Top🔝ContributedRepo-</tt></h3>
 
-![](https://github-contributor-stats.vercel.app/api?username=EnderTonol&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=quddus-larik&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <p align="center">
-    <a href="https://github.com/EnderTonol?tab=followers ">
-        <img src="https://img.shields.io/github/followers/EnderTonol?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <a href="https://github.com/quddus-larik?tab=followers ">
+        <img src="https://img.shields.io/github/followers/quddus-larik?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
     </a>
-    <a href="https://github.com/EnderTonol?tab=repositories&sort=stargazers">
+    <a href="https://github.com/quddus-larik?tab=repositories&sort=stargazers">
         <img src="https://img.shields.io/github/stars/EnderTonol?style=for-the-badge" alt="GitHub badge" />
     </a>
 </p>
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=EnderTonol&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=quddus-larik&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h3><tt>-You can help me by Donating💰-</tt></h3>
 
