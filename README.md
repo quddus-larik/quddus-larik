@@ -86,7 +86,7 @@
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quddus-larik&bg_color=161a1d&color=ffffff&line=058c42&point=16db65&area_color=89fc00&area=true&hide_border=true" alt="GitHub Activity Graph" width="95%" loading="lazy"/>
 
 ![](https://github-readme-stats.vercel.app/api?username=quddus-larik&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=EnderTonol&theme=dark&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=quddus-larik&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quddus-larik&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <h2><tt>-GitHub🏆Trophies-</tt></h2>
@@ -107,7 +107,7 @@
         <img src="https://img.shields.io/github/followers/quddus-larik?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
     </a>
     <a href="https://github.com/quddus-larik?tab=repositories&sort=stargazers">
-        <img src="https://img.shields.io/github/stars/EnderTonol?style=for-the-badge" alt="GitHub badge" />
+        <img src="https://img.shields.io/github/stars/quddus-larik?style=for-the-badge" alt="GitHub badge" />
     </a>
 </p>
 
