@@ -6,17 +6,27 @@
 <hr/>
   
 <h1><tt>-About💫Me-</tt></h1>
-🔭 I’m currently working on NextJS<br>👯 I’m looking to collaborate on MERN Stack Devs<br>🤝 I’m looking for help with ExpressJS<br>🌱 I’m currently learning NextJS<br>💬 Ask me about MERN Stack development<br>⚡ Fun fact Playing Video Games.
+I’m Abdul Quddus, a passionate Junior MERN Stack Developer with a focus on building clean, efficient, and user-friendly web applications.
+I love turning ideas into interactive digital experiences and continuously improving my skills by exploring new technologies.
+
+🎯 Interests: Web development, Video Gaming, Designing
+
+🚀 Currently Learning: Authentication in Next.js & advanced React patterns
+
+🛠 InProgress Projects: eCommerce stock platforms
+
+📫 Reach me at: abdulqudduslarek@proton.me
+
 <br/><br/>
  <img src="https://komarev.com/ghpvc/?username=quddus-lar8k&style=flat-square&color=f6b846">
 
 <h2><tt>-🌐Socials-</tt></h2>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nitroxee.dll/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-quddus-158643273/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/29026249/quddus-larik) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/unreal.quddus/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/quddus-larik) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/29026249/quddus-larik) 
 
 <br/>
 
-[![quddustrades@gmail.com](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:quddustrades@gmail.com) 
+[![quddustrades@gmail.com](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulqudduslarek@proton.me) 
 
 <h2><tt>-Teck📈Stack-</tt></h2>
 
