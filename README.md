@@ -26,8 +26,6 @@ I love turning ideas into interactive digital experiences and continuously impro
 
 <br/>
 
-[![quddustrades@gmail.com](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulqudduslarek@proton.me) 
-
 <h2><tt>-Teck📈Stack-</tt></h2>
 
 <h3><tt>-Languages-</tt></h3>
