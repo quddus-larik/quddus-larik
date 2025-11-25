@@ -102,10 +102,6 @@ I love turning ideas into interactive digital experiences and continuously impro
 ![](https://github-profile-trophy.vercel.app/?username=quddus-larik&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 
-<h3><tt>-Dev✍️Quote-</tt></h3>
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
 <h3><tt>-Top🔝ContributedRepo-</tt></h3>
 
 ![](https://github-contributor-stats.vercel.app/api?username=quddus-larik&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -123,9 +119,6 @@ I love turning ideas into interactive digital experiences and continuously impro
 
 [![](https://visitcount.itsvg.in/api?id=quddus-larik&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3><tt>-You can help me by Donating💰-</tt></h3>
-
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Nitroxee)
   
 <img src="./mern-stack.png"/>
 </div>
