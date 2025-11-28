@@ -74,7 +74,7 @@ I love turning ideas into interactive digital experiences and continuously impro
 
 <h3><tt>-Utilities-</tt></h3>
 
- ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+ ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 <h3><tt>-Native Devs-</tt></h3>
 
