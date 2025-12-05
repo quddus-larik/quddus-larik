@@ -106,7 +106,6 @@ I love turning ideas into interactive digital experiences and continuously impro
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=quddus-larik&icon=0&color=0)](https://visitcount.itsvg.in)
 
   
 <img src="./mern-stack.png"/>
