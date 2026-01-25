@@ -86,11 +86,6 @@ I love turning ideas into interactive digital experiences and continuously impro
 ![](https://nirzak-streak-stats.vercel.app/?user=quddus-larik&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quddus-larik&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<h2><tt>-GitHub🏆Trophies-</tt></h2>
- 
-![](https://github-profile-trophy.vercel.app/?username=quddus-larik&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
-
 <h3><tt>-Top🔝ContributedRepo-</tt></h3>
 
 ![](https://github-contributor-stats.vercel.app/api?username=quddus-larik&limit=5&theme=dark&combine_all_yearly_contributions=true)
