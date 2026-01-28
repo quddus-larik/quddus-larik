@@ -88,8 +88,6 @@ I love turning ideas into interactive digital experiences and continuously impro
 
 <h3><tt>-Top🔝ContributedRepo-</tt></h3>
 
-![](https://github-contributor-stats.vercel.app/api?username=quddus-larik&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <p align="center">
     <a href="https://github.com/quddus-larik?tab=followers ">
         <img src="https://img.shields.io/github/followers/quddus-larik?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
