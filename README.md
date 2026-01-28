@@ -80,13 +80,13 @@ I love turning ideas into interactive digital experiences and continuously impro
 
 <h3><tt>-GitHub📊Stats-</tt></h3>
 
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=quddus-larik&bg_color=161a1d&color=ffffff&line=058c42&point=16db65&area_color=89fc00&area=true&hide_border=true" alt="GitHub Activity Graph" width="95%" loading="lazy"/>
-
 ![](https://github-readme-stats.vercel.app/api?username=quddus-larik&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=quddus-larik&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quddus-larik&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <h3><tt>-Top🔝ContributedRepo-</tt></h3>
+
+![](https://github-contributor-stats.vercel.app/api?username=quddus-larik&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <p align="center">
     <a href="https://github.com/quddus-larik?tab=followers ">
