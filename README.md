@@ -3,11 +3,21 @@
 
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
 
-<hr/>
-  
+<br/>
+
 <h1><tt>-About💫Me-</tt></h1>
 I’m Abdul Quddus, a passionate Junior MERN Stack Developer with a focus on building clean, efficient, and user-friendly web applications.
 I love turning ideas into interactive digital experiences and continuously improving my skills by exploring new technologies.
+
+<hr/>
+<p align="left">
+    <a href="https://github.com/quddus-larik?tab=followers ">
+        <img src="https://img.shields.io/github/followers/quddus-larik?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    </a>
+    <a href="https://github.com/quddus-larik?tab=repositories&sort=stargazers">
+        <img src="https://img.shields.io/github/stars/quddus-larik?style=for-the-badge" alt="GitHub badge" />
+    </a>
+</p>
 
 <br/><br/>
  <img src="https://komarev.com/ghpvc/?username=quddus-larik&style=flat-square&color=f6b846">
@@ -76,26 +86,7 @@ I love turning ideas into interactive digital experiences and continuously impro
 
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
 
-
-
-<h3><tt>-GitHub📊Stats-</tt></h3>
-
-![](https://github-readme-stats.vercel.app/api?username=quddus-larik&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=quddus-larik&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=quddus-larik&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-<p align="center">
-    <a href="https://github.com/quddus-larik?tab=followers ">
-        <img src="https://img.shields.io/github/followers/quddus-larik?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-    </a>
-    <a href="https://github.com/quddus-larik?tab=repositories&sort=stargazers">
-        <img src="https://img.shields.io/github/stars/quddus-larik?style=for-the-badge" alt="GitHub badge" />
-    </a>
-</p>
-
 <br/>
 
 
-  
-<img src="./mern-stack.png"/>
 </div>
