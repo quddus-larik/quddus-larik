@@ -14,9 +14,6 @@ I love turning ideas into interactive digital experiences and continuously impro
     <a href="https://github.com/quddus-larik?tab=followers ">
         <img src="https://img.shields.io/github/followers/quddus-larik?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
     </a>
-    <a href="https://github.com/quddus-larik?tab=repositories&sort=stargazers">
-        <img src="https://img.shields.io/github/stars/quddus-larik?style=for-the-badge" alt="GitHub badge" />
-    </a>
 </p>
 
 <br/><br/>
