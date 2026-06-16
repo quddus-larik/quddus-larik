@@ -85,6 +85,6 @@ I love turning ideas into interactive digital experiences and continuously impro
 
 <br/>
 
-![](https://streak-stats.demolab.com/?user=quddus-larik&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=quddus-larik&theme=dark&hide_border=false)
 
 </div>
