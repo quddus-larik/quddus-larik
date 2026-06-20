@@ -89,4 +89,6 @@ I love turning ideas into interactive digital experiences and continuously impro
 
 ![](https://streak-stats.demolab.com/?user=quddus-larik&theme=dark&hide_border=false)
 
+![Quddus's GitHub stats](https://github-readme-stats.vercel.app/api?username=quddus-larik&show_icons=true&theme=transparent)
+
 </div>
