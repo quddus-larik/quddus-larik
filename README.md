@@ -88,4 +88,8 @@ I love turning ideas into interactive digital experiences and continuously impro
 
 ![](https://streak-stats.demolab.com/?user=quddus-larik&theme=dark&hide_border=false)
 
+<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=devs-abubakar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
