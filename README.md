@@ -4,6 +4,15 @@ I’m Abdul Quddus, a passionate Full Stack Javascript Developer with a focus on
 I love turning ideas into interactive digital experiences and continuously improving my skills by exploring new technologies.
 
 <br />
+<br />
+
+I'm currently working on Backend AI Engineering <br />
+I'm looking to collaborate on Software Optimization <br />
+I'm looking for help with AI integrated Projects.<br />
+I'm currently learning Frontend System Design, API Design, and Backend Optimization.
+
+
+<br />
 
 <h3><tt>Tech💻Stack</tt></h2>
 
@@ -24,3 +33,6 @@ I love turning ideas into interactive digital experiences and continuously impro
 
 <b>Gaming & Entertainments</b> <br/>
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+
+<b>Outside the Codebase</b>
+I enjoy story-driven, action, and multiplayer games. Currently, I’m playing multiplayer titles such as 2XKO, Stumble Guys, and PUBG. In the story-driven genre, I have completed Sniper Ghost Warrior Contracts 2, Strange life and Assassin’s Creed Brotherhood.
