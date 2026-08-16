@@ -36,7 +36,7 @@ I'm currently learning Frontend System Design, API Design, and Backend Optimizat
 
 <br/>
 
-![](https://streak-stats.demolab.com/?user=quddus-larik &theme=github_dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=quddus-larik&theme=github_dark&hide_border=false)
 
 <b>Outside the Codebase</b>
 I enjoy story-driven, action, and multiplayer games. Currently, I’m playing multiplayer titles such as 2XKO, Stumble Guys, and PUBG. In the story-driven genre, I have completed Sniper Ghost Warrior Contracts 2, Strange life and Assassin’s Creed Brotherhood.
