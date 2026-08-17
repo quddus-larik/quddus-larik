@@ -40,3 +40,5 @@ I'm currently learning Frontend System Design, API Design, and Backend Optimizat
 
 <b>Outside the Codebase</b>
 I enjoy story-driven, action, and multiplayer games. Currently, I’m playing multiplayer titles such as 2XKO, Stumble Guys, and PUBG. In the story-driven genre, I have completed Sniper Ghost Warrior Contracts 2, Strange life and Assassin’s Creed Brotherhood.
+
+[![roadmap.sh](https://roadmap.sh/card/wide/68976299614598977e51dae5?variant=dark&roadmaps=system-design%2Cdevops%2Creact-native%2Capi-design)](https://roadmap.sh)
